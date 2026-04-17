@@ -4,7 +4,7 @@ Hi 👋 My name is Nirmal Vaja
 Sr. ROR Developer
 -----------------
 
-I've been learning to code for like 2 years. I've started with Php first. Then I found my interest on Ruby on Rails.
+I've been learning to code for like 5 years. I've started with Php first. Then I found my interest on Ruby on Rails.
 
 * 🌍  I'm based in Gujarat
 * ✉️  You can contact me at [nirmalvaja123@gmail.com](mailto:nirmalvaja123@gmail.com)
